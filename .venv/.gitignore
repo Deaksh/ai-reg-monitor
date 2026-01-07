@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local DB
+compliance.db
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
